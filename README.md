@@ -5,11 +5,11 @@ Thus, the sole purpose of an OTP is to verify the identity of a user by sending 
 
 We can easily create an application for the task of OTP verification using Python by following the steps mentioned below: 
 
-  1.First, create a 6-digit random number.
+1.First, create a 6-digit random number.
 
-  2.Then store the number in a variable.
+2.Then store the number in a variable.
 
-  3.Then we need to write a program to send emails.
+3.Then we need to write a program to send emails.
 
 4. When sending email, we need to use OTP as a message.
  
